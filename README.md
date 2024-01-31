@@ -17,7 +17,7 @@ Este repositório é dedicado à análise de sentimentos e opiniões usando téc
 
 Durante a análise de sentimento, a IA utiliza técnicas de processamento de linguagem natural (PLN) para compreender e avaliar o contexto emocional subjacente em um texto. O processo envolve tokenização, onde o texto é dividido em palavras ou frases; em seguida, o modelo de análise de sentimento atribui uma polaridade (positiva, negativa ou neutra) a cada unidade.
 
-![Exemplo do resultado](screenshoots/1.png)
+![Exemplo do resultado](screenshots/1.png)
 
 
-![Exemplo do resultado](screenshoots/2.png)
+![Exemplo do resultado](screenshots/2.png)
